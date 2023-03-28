@@ -1,12 +1,15 @@
 # ikakaTodo
 
 ikakaTodo is a learning application created with NestJs and MongoDb in its backend and NextJs in the front. pnpm was used to manage its dependencies.
+
 <a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/v/@nestjs/core.svg" alt="NPM Version" /></a>
 <a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/l/@nestjs/core.svg" alt="Package License" /></a>
 <a href="https://twitter.com/nestframework" target="_blank"><img src="https://img.shields.io/twitter/follow/nestframework.svg?style=social&label=Follow"></a>
 
 ## Backend
+
  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="100" alt="Nest Logo" /></a>
+
 The backend of the application was created with NestJs, a NodeJs framework for building scalable and performant applications. MongoDb was used as the database to store the tasks of the application.
 
 ### Backend Branch
