@@ -18,6 +18,13 @@ The backend code for the application is stored in the [backend](https://github.c
 
 ## Frontend
 
+  <a href="https://nextjs.org">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png">
+      <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png" height="128">
+    </picture>
+  </a>
+
 The frontend of the application was created with NextJs, a React framework that focuses on speed and performance efficiency. The application is hosted on Render, a hosting service that allows for easy and quick cloud hosting of applications.
 
 ### Frontend Branch
