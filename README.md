@@ -21,7 +21,7 @@ The backend code for the application is stored in the [backend](https://github.c
   <a href="https://nextjs.org">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png">
-      <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png" height="128">
+      <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png" height="100">
     </picture>
   </a>
 
